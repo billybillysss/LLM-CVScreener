@@ -1,0 +1,14 @@
+responsibilities:
+• Design, develop, and maintain multiple databases within the data warehouse. 
+• Create, implement, and test data models and database management systems.
+• Conduct research and support internal/external groups with the selection and implementation of applications and database management tools.
+• Identify and utilize database management systems to aggregate and analyze data. 
+• In collaboration with the VP, IBT and the Senior Data Warehouse Engineer, develop and implement data administration policies, standards, and models. 
+• Work with internal departments and colleagues to understand and document specific data and user requirements, data collection and administration policies, and data access rules. 
+• Develop and implement procedures for determining network access and usage and for the backup and recovery of data. 
+• Write scripts to support automation, data extraction, and reporting.
+• Design and automate routine and self-service reporting solutions (i.e., Power BI).
+• Identify opportunities and provide recommendations to enhance efficiencies in data management and analysis. 
+• Create and maintain system context diagrams and process maps, capturing flows of information between systems and typical customer flows.
+• Analyze business operations and workflows to understand and define opportunities where information solutions can be implemented to mitigate business challenges.
+• Perform ad-hoc data extraction, analysis, and interpretation.
